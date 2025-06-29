@@ -1,0 +1,12 @@
+{
+  "ABC123": {
+    "username": "GiaMinh",
+    "mac": "4C:CC:6A:1B:2F:80",
+    "expire": "2025-07-31"
+  },
+  "XYZ456": {
+    "username": "AnotherUser",
+    "mac": "B4:F0:AB:19:02:44",
+    "expire": "2025-08-15"
+  }
+}
