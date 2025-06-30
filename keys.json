@@ -9,9 +9,9 @@
     "mac": "48:51:C5:9A:08:F2",
     "expire": "2025-07-31"
   },
-  "XYZ456": {
-    "username": "AnotherUser",
-    "mac": "B4:F0:AB:19:02:44",
-    "expire": "2025-08-15"
+  "ABC126": {
+    "username": "THUC",
+    "mac": "AA:93:5A:0E:1D:13",
+    "expire": "2025-07-2"
   }
 }
