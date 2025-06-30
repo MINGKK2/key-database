@@ -28,5 +28,10 @@
     "username": "MINHMINH",
     "mac": "5A:42:00:50:CB:F9",
     "expire": "2029-07-1"
-  }
+  },
+  "ABC130": {
+    "username": "Duccap",
+    "mac": "E8:48:B8:C8:20:00",
+    "expire": "2029-07-1"
+  
 }
