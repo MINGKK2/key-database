@@ -18,5 +18,10 @@
     "username": "Moose",
     "mac": "34:5A:60:6F:53:C5",
     "expire": "2026-07-1"
+  },
+  "ABC128": {
+    "username": "Kwon DeaGun",
+    "mac": "58:6C:25:7E:E0:18",
+    "expire": "2026-07-1"
   }
 }
