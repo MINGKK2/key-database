@@ -1,37 +1,12 @@
 {
   "ABC123": {
     "username": "MINH",
-    "mac": "5A:42:00:50:CB:F9",
+    "mac": "86:54:04:41:2D:9A",
     "expire": "2030-07-31"
   },
   "ABC124": {
     "username": "BEOBEO",
     "mac": "48:51:C5:9A:08:F2",
     "expire": "2025-07-31"
-  },
-  "ABC126": {
-    "username": "THUC",
-    "mac": "CC:D2:FA:BE:1A:29",
-    "expire": "2025-08-2"
-  },
-  "ABC127": {
-    "username": "Moose",
-    "mac": "34:5A:60:6F:53:C5",
-    "expire": "2026-07-1"
-  },
-  "ABC128": {
-    "username": "Kwon DeaGun",
-    "mac": "58:6C:25:7E:E0:18",
-    "expire": "2025-07-1"
-  },
-  "ABC129": {
-    "username": "MINHMINH",
-    "mac": "5A:42:00:50:CB:F9",
-    "expire": "2029-07-1"
-  },
-  "ABC130": {
-    "username": "Duccap",
-    "mac": "E8:48:B8:C8:20:00",
-    "expire": "2029-07-1"
   }
 }
